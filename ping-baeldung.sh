@@ -1,3 +1,3 @@
 #!/bin/bash
-curl--head https://www.baeldungtest.com
-# trigger fix 7
+curl7 --head https://www.baeldungtest.com
+# trigger issue 7
