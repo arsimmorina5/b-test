@@ -1,3 +1,3 @@
 #!/bin/bash
 curl --head https://www.baeldungtest.com
-# fix 16 - retry 2
+# fix 16 - retry 3
