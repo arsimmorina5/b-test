@@ -1,3 +1,3 @@
 #!/bin/bash
 curl  --head https://www.baeldungtest.com
-# trigger fix 9
+# trigger fix 10
