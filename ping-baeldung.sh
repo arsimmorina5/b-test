@@ -1,3 +1,3 @@
 #!/bin/bash
-curl --head https://www.baeldungtest.com
+curlgggg --head https://www.baeldungtest.com
 # fix 16
