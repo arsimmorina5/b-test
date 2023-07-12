@@ -1,3 +1,3 @@
 #!/bin/bash
-curl12  --head https://www.baeldungtest.com
+curl12error  --head https://www.baeldungtest.com
 # trigger error 12
