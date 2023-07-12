@@ -1,3 +1,3 @@
 #!/bin/bash
-curl --head https://www.baeldungtest.com
-# fix 14
+curl15 --head https://www.baeldungtest.com
+# fail 15
