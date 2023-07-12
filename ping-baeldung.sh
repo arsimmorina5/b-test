@@ -1,3 +1,3 @@
 #!/bin/bash
-curl --head https://www.baeldungtest.com
-# retry 4
+curl5 --head https://www.baeldungtest.com
+# retry 5
