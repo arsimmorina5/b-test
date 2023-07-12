@@ -1,3 +1,3 @@
 #!/bin/bash
-curl --head https://www.baeldungtest.com
-# trigger 6
+curl4 --head https://www.baeldungtest.com
+# trigger -fail 4
