@@ -1,3 +1,2 @@
 #!/bin/bash
-curl --head https://www.baeldungtest.com
-# fix 16 - retry 3
+curl --error-code --head https://www.baeldungtest.com
