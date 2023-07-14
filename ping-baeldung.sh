@@ -1,2 +1,2 @@
 #!/bin/bash
-curl --error-code --head https://www.baeldungtest.com
+curl --error-code2 --head https://www.baeldungtest.com
