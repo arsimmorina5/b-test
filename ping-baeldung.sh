@@ -1,3 +1,3 @@
 #!/bin/bash
-curl --head https://www.baeldungtest.com
-# 2.9 working code
+curl --headsss https://www.baeldungtest.com
+# 2.10 fault code
