@@ -1,3 +1,3 @@
 #!/bin/bash
-curl --headhttps://www.baeldungtest.com
-# 4.2  working code
+curl --head https://www.baeldungtest.com
+# 4.3  working code
