@@ -1,3 +1,3 @@
 #!/bin/bash
 curl --head https://www.baeldungtest.com
-# 2 faulty code
+# 2.2 faulty code
