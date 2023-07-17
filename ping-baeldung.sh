@@ -1,3 +1,3 @@
 #!/bin/bash
-curl --headdd https://www.baeldungtest.com
-# 2.6 faulty code
+curl --head https://www.baeldungtest.com
+# 2.7 working code
